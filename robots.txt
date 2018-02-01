@@ -1,0 +1,16 @@
+ User-agent: *
+ Allow: /
+ Allow: /about/
+ Allow: /archives/
+
+ Disallow: /categories/
+ Disallow: /tags/ 
+ Disallow: /vendors/
+ Disallow: /js/
+ Disallow: /css/
+ Disallow: /fonts/
+ Disallow: /vendors/
+ Disallow: /fancybox/
+ 
+ Sitemap: https://vpntj.github.io/sitemap.xml
+ Sitemap: https://vpntj.github.io/baidusitemap.xml
